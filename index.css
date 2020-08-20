@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:500");
+
+
+body {
+  text-align:center;
+  background-image: url("https://cdn.wallpapersafari.com/56/47/3eNABc.jpg")
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  display:block;
+  height:auto;
+  border-radius: 65px;
+}
+
+
+body {
+  background-color: black;
+  color:white;
+  font-family: calibri;
+}
+
+footer {
+  position: relative;
+  top: 500px;
+  text-align: center;
+  text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    word-spacing: 150px;
+    color: white;
+}
+
+.nav-list li:nth-child(1),
+.nav-list li:nth-child(2),
+.nav-list li:nth-child(3){
+  display: inline;
+  font-family: montserrat;
+  font-size: 30px;
+}
+
+li a {
+  color:black;
+  text-decoration: none;
+
+}
+
+a:hover {
+     text-decoration: none;
+     color:white;
+        }
+#books {
+  position: relative;
+  top: 400px;
+  text-align: left;
+}
+  #tribute-info {
+    position: relative;
+    top: 300px;
+    text-align: justify;
+}
+#main {
+  position: relative;
+  top: 100px;
+  text-align: center;
+}
+
+#nav {
+  background-color:saddlebrown;
+  height: 38px;
+  width: 900px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+audio {
+  position:relative;
+    top: 400px;
+}
